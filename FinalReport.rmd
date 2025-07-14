@@ -49,6 +49,7 @@ barchartGC(~race  + cappun,data=mydata)
 barchartGC(~race + cappun,data=mydata, type="percent")
 
 ```
+
 based off the bar chart we can see black people are against capital punishment while white people and the people who fall under are in favor of it. Another reason teh chart looks like this is because there is way more white people included in the data.
 
 
@@ -85,7 +86,7 @@ fisherXY(mydata$cappun,mydata$race)
 ```
 
 ## More data version
-the fisherxy showed that all groups were statistically different from each other. 
+the fishery showed that all groups were statistically different from each other. 
 
 # Discussion and Conclusion
 
